@@ -5,6 +5,7 @@ function App() {
         <View>
             <Text>text  </Text>
             <Text>Barev Gev</Text>
+            <Text>xbhs</Text>
         </View>
     )
 }
