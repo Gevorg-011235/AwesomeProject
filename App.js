@@ -1,7 +1,7 @@
 const { Text } = require("react-native");
 
 function App(){
- return(<Text>Text text text </Text>)
+ return(<Text>barev dzez  </Text>)
 }
 
 export default App
